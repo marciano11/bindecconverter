@@ -1,0 +1,13 @@
+body {
+  background-color: #808f87;
+  color: #f2b79f;
+}
+
+#container {
+  width: 800px;
+  margin: auto;
+}
+
+#canvas {
+  background-color: white;
+}
